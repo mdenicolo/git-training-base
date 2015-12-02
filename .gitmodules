@@ -1,0 +1,3 @@
+[submodule "clonado2"]
+	path = clonado2
+	url = https://github.com/mdenicolo/clonado2.git
